@@ -54,10 +54,7 @@ Revisit our data source by exploring Spotify API requests. Examine historical st
 
 ## Contact
 If there are any questions or concerns, I can be reached at:
-##### [github:  paolavdw, leo042024, GuardsGuards, seashell-coder](https://github.com/ paolavdw, leo042024, GuardsGuards, seashell-coder)
-##### [email: paola.guigou@gmail.com, lcrowalcrowal@gmail.com, npwoltman@gmail.com,sadaf.hakim99@gmail.com](mailto:paola.guigou@gmail.com, lcrowalcrowal@gmail.com, npwoltman@gmail.com,sadaf.hakim99@gmail.com)
-
-## References
+##### [email: paola.guigou@gmail.com, lcrowalcrowal@gmail.com, npwoltman@gmail.com,sadaf.hakim99@gmail.com]
 https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
 https://www.forbes.com/sites/conormurray/2023/11/28/spotify-wrapped-2023-comes-soon-heres-how-it-became-a-viral-and-widely-copied-marketing-tactic/
 https://www.musicnotes.com/blog/25-quotes-from-musicians-for-musicians/
