@@ -16,26 +16,46 @@ This project aims to predict which songs are likely to perform well in terms of 
 - [Contact](#contact)
 
 ## Installation
-import pandas as pd
-import itertools
-import random
-import datetime as dt
+import pandas as pd 
+
+import itertools 
+
+import random 
+
+import datetime as dt 
+
 import sqlalchemy
+
 from sqlalchemy.ext.automap import automap_base
+
 from sqlalchemy.orm import Session
+
 from sqlalchemy import create_engine, inspect, text
+
 import numpy as np
+
 import matplotlib.pyplot as plt
+
 from pathlib import Path
+
 from sklearn.linear_model import LinearRegression
+
 from sklearn.cluster import KMeans
+
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
+
 from sklearn.model_selection import train_test_split
+
 from sklearn.decomposition import PCA
+
 from sklearn.linear_model import LogisticRegression
+
 from sklearn.metrics import confusion_matrix, accuracy_score, classification_report, mean_absolute_error, mean_squared_error, r2_score
+
 from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
+
 from statsmodels.stats.outliers_influence import variance_inflation_factor
+
 from sklearn.model_selection import cross_val_score
 
 ## Usage
